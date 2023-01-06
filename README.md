@@ -1,5 +1,7 @@
 # Open private One Time Password client
 
+Store your OTP passwords safely on your local storage, but with the comfort of not installing any apps.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
